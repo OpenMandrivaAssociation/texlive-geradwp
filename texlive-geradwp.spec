@@ -1,6 +1,6 @@
 Name:		texlive-geradwp
 Version:	63134
-Release:	1
+Release:	2
 Summary:	Document class for the Cahiers du GERAD series
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/geradwp
