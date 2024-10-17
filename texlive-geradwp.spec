@@ -3,7 +3,7 @@ Version:	63134
 Release:	2
 Summary:	Document class for the Cahiers du GERAD series
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/geradwp
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/geradwp
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/geradwp.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/geradwp.doc.r%{version}.tar.xz
